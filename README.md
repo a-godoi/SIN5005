@@ -4,8 +4,8 @@
 
 Carol Thomaz </br>
 Guilherme Fernandes </br>
-Leonardo Cunha dos Santos </br>
 José Luiz Borin Junior </br>
+Leonardo Cunha dos Santos </br>
 Alécio Godoi </br>
 
 # Projeto
