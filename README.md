@@ -11,5 +11,4 @@ Alécio Godoi </br>
 
 Não sabemos ainda...
 
-[![Code Climate](https://codeclimate.com/github/cloudfoundry/membrane.png)](https://codeclimate.com/github/a-godoi/SIN5005)
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Code Climate](https://codeclimate.com/github/cloudfoundry/membrane.png)](https://codeclimate.com/github/a-godoi/SIN5005) </br>
