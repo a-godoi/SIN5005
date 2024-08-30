@@ -4,7 +4,7 @@
 
 Carol Thomaz </br>
 Guilherme Fernandes </br>
-Leonardo Cunha Santos </br>
+Leonardo Cunha dos Santos </br>
 Alécio Godoi </br>
 
 # Projeto
