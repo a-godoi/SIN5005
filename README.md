@@ -2,11 +2,13 @@
 
 # Grupo@
 
-Carol Thomaz </br>
-Guilherme Fernandes </br>
-José Luiz Borin Junior </br>
-Leonardo Cunha dos Santos </br>
-Alécio Godoi </br>
+| NOME | RA | 
+|----------|:------:|
+|Carol Thomaz |
+|Guilherme Fernandes | 
+|José Luiz Borin Junior | 
+|Leonardo Cunha dos Santos | 5965830 |
+|Alécio Godoi | 
 
 # Projeto
 
